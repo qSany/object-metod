@@ -5,7 +5,7 @@ public class Main {
         Book gary2 = new Book("gary Poter2",2005,avtor);
         Book avtor5 = new Book("gary Poter3",2006,avtor);
         System.out.println( gary1);
-        gary1.setPublicationYear(4040);
+        gary1.setPublicationYear(1467);
         System.out.println(gary1);
         gary1.setTitle("petrov");
         System.out.println(gary1);
